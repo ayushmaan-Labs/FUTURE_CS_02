@@ -18,6 +18,9 @@ This project simulates a Security Operations Center (SOC) workflow as part of th
 ```bash
 sudo apt update && sudo apt install openjdk-11-jdk -y
 ```
+### Screenshots
+![Image](https://github.com/user-attachments/assets/d69fd9a7-812f-4dd0-9b53-4c37ab8e3056)
+
 #### 2. Add Elastic APT Repository
 
 ```bash
