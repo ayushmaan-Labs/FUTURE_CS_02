@@ -128,3 +128,5 @@ output {
 - Enable 2FA for SSH accounts
 - Implement SSH rate limiting or use `fail2ban`
 
+***Note***:The Kibana dashboard was explored during the project. Due to timestamp differences in simulated logs, visualizations were not included but data indexing and parsing were verified via Discover and Logstash output.
+
