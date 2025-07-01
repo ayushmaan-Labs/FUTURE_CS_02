@@ -90,6 +90,8 @@ output {
 
 ![Image](https://github.com/user-attachments/assets/0cdc9871-da4e-4466-b452-4874de77cb70)
 
+![Image](https://github.com/user-attachments/assets/bcae3f62-e116-45ef-b236-a5de6bd917e3)
+
 ## 🚨 Alert Classification
 
 | Alert ID | Timestamp | User  | Source IP     | Action | Severity | Description                           |
