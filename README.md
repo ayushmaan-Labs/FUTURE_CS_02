@@ -32,7 +32,7 @@ sudo apt update
 ```
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/9df9a12a-2aa9-4541-b4cf-ff2280d05416)
-
+![Image](https://github.com/user-attachments/assets/2fc55e47-1ca3-473c-8f01-f8a76181147d)
 
 #### 3. Install ELK Stack Components
 
