@@ -39,6 +39,9 @@ sudo apt update
 ```bash
 sudo apt install elasticsearch kibana logstash -y
 ```
+### Screenshots
+![Image](https://github.com/user-attachments/assets/127f3596-1418-4b69-b5e7-439e1c8e8416)
+
 #### 4. Enable and Start ELK Services
 
 ```bash
