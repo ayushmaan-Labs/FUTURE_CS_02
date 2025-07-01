@@ -30,6 +30,10 @@ echo "deb [signed-by=/usr/share/keyrings/elastic.gpg] https://artifacts.elastic.
 
 sudo apt update
 ```
+### Screenshots
+![image](https://github.com/user-attachments/assets/9df9a12a-2aa9-4541-b4cf-ff2280d05416)
+
+
 #### 3. Install ELK Stack Components
 
 ```bash
