@@ -85,6 +85,10 @@ output {
   stdout { codec => rubydebug }
 }
 ```
+### Screenshots
+![Image](https://github.com/user-attachments/assets/59668066-6669-4d7b-a6b1-7436af7ac58b)
+
+
 ## 🚨 Alert Classification
 
 | Alert ID | Timestamp | User  | Source IP     | Action | Severity | Description                           |
