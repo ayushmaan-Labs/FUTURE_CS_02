@@ -88,6 +88,7 @@ output {
 ### Screenshots
 ![Image](https://github.com/user-attachments/assets/59668066-6669-4d7b-a6b1-7436af7ac58b)
 
+![Image](https://github.com/user-attachments/assets/0cdc9871-da4e-4466-b452-4874de77cb70)
 
 ## 🚨 Alert Classification
 
