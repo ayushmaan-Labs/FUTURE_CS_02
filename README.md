@@ -53,6 +53,10 @@ sudo systemctl start elasticsearch kibana logstash
 ```bash
 curl -X GET "localhost:9200"
 ```
+### Screenshots
+
+![Image](https://github.com/user-attachments/assets/1f99b2f9-e641-4817-be67-892f5b64d26f)
+
 ## 📥 Log Ingestion via Logstash
 
 ### 🔹 Sample Log File (`/home/ayushman/sample.log`)
